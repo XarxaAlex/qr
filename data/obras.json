@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "001",
+    "titulo": "Luz de invierno",
+    "alumno": "Ana Pérez",
+    "artista": "Christine and the Queens",
+    "cancion": "The Walker",
+    "audio": "audio/the-walker.mp3",
+    "imagen": "img/001.jpg",
+    "descripcion": "Obra inspirada en una canción sobre vulnerabilidad, tensión y resistencia."
+  }
+]
